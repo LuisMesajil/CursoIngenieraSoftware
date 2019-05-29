@@ -1,1 +1,13 @@
-Hello
+
+
+Gestión de versiones
+1. git add .
+2. git commit -m "SOMETHING"
+3. git push origin master
+
+Gestión ramas
+* Crear rama y cambio a ella:   git checkout -b Luis
+* Cambio de rama:               git checkput Luis
+* Delete remote branch :        git push --delete Luis
+
+
